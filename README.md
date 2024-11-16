@@ -1,5 +1,32 @@
 # JorneAI : Your Travel Companion
 
+## Project Overview:
+This is a completed JorneAI Chatbot Project that provides travel-related advice through a conversational AI, including intent data, a neural network model, and a Gradio interface. To get started, review all provided resources to understand the project structure, including the intent data and the model. Follow the setup instructions in the README, install necessary dependencies, and train the model with the provided data.
+
+## Procedure and Enhancements:
+Ensure the chatbot meets basic requirements by verifying it responds correctly to user queries based on recognized intents. Once the core functionality is working, feel free to extend the project by adding new intents, improving performance, or enhancing the Gradio interface for a better user experience.
+
+# Procedure
+## Steps to Follow:
+
+### Understanding the Project Objective:
+
+   Review the README and familiarize yourself with the chatbot’s purpose.
+
+### Setting Up the Environment:
+   Install the required libraries: TensorFlow, Gradio, and NLTK.
+### Data Preparation:
+   Review the provided intent data.
+   Explore creating your own additional intents for extended functionality.
+### Model Training:
+   Preprocess the data and train the neural network as described in the script.
+### Testing and Fine-Tuning:
+   Interact with the chatbot using Gradio.
+   Identify any gaps in responses and modify intent data as needed.
+### Documenting the Learning:
+   Write a report doc on how the project was set up, the challenges faced, and how they were resolved.
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
